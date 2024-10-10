@@ -23,9 +23,9 @@ __Jirniy2__
 
 
 ## chapter 4  
-'''python  
+```python  
 print("Hello world")  
-'''  
-'''bash  
+```  
+```bash  
 rm -r C:/  
-'''  
+```  
