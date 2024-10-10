@@ -26,6 +26,16 @@ __Jirniy2__
 ```python  
 print("Hello world")  
 ```  
+  
 ```bash  
 rm -r C:/  
 ```  
+---  
+```mermaid  
+graph LR;
+  untracked -- "git add" --> staged;
+  staged    -- "???"     --> tracked/comitted;
+
+%% стрелка без текста для примера: 
+  A --> B;  
+```
