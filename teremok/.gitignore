@@ -1,0 +1,4 @@
+teremok.txt
+*.exe
+venv/
+secrets.txt
