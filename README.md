@@ -9,7 +9,7 @@ abeme <br>
 lal  
 *Cursiv*  
 **Jirniy**  
-__Jirniy2__
+__Jirniy2__  
 ~~Zacherk~~
 
 
@@ -23,9 +23,9 @@ __Jirniy2__
 
 
 ## chapter 4  
-'''python
+'''python  
 print("Hello world")  
 '''  
-'''bash
+'''bash  
 rm -r C:/  
 '''  
