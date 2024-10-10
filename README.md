@@ -34,8 +34,10 @@ rm -r C:/
 ```mermaid  
 graph LR;
   untracked -- "git add" --> staged;
-  staged    -- "???"     --> tracked/comitted;
-
+  staged    -- "git commit"     --> tracked/comitted;
+  modified -- "git add" --> staged;
+  
+ 
 %% стрелка без текста для примера: 
   A --> B;  
 ```
